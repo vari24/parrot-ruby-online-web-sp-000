@@ -4,4 +4,3 @@
 def bird
   puts "Squawk!"
 end
-
